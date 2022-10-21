@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EsraaGaber/Udacityprojthree#readme",
   "devDependencies": {
+    "dotenv-webpack": "^8.0.1",
     "standard-version": "^9.5.0"
   }
 }
