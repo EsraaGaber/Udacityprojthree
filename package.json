@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EsraaGaber/Udacityprojthree/issues"
   },
-  "homepage": "https://github.com/EsraaGaber/Udacityprojthree#readme"
+  "homepage": "https://github.com/EsraaGaber/Udacityprojthree#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
